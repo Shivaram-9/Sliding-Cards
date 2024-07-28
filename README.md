@@ -21,7 +21,7 @@
 **Installation and Setup**
 
 **1.	Clone the Repository:**
-git clone https://github.com/Shivaram-9/animated-flex-cards.git  
+git clone https://github.com/Shivaram-9/Sliding-Cards.git  
 
 **2.	Navigate to the Project Directory:**
 cd animated-flex-cards
